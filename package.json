@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "video calling app with next js and socket io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakduttaOfficial/videocallapp-backend.git"
+  },
+  "author": "Deepak Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakduttaOfficial/videocallapp-backend/issues"
+  },
+  "homepage": "https://github.com/deepakduttaOfficial/videocallapp-backend#readme"
+}
