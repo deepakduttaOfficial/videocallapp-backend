@@ -39,7 +39,4 @@ io.on("connection", (socket) => {
   });
 });
 
-// router middle ware
-app.use(`/api/${version}`, video);
-
 export default httpServer;
